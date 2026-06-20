@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+google-generativeai
+fastapi
+uvicorn
+pydantic
+requests
+google-genai
